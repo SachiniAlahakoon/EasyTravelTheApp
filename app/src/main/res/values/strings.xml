@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyTravelTheApp</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign in</string>
+    <string name="TODO">TODO</string>
+    <string name="TOD0">TODO</string>
+    <string name="username">username</string>
+    <string name="password" />
+    <string name="login">LOGIN</string>
+</resources>
